@@ -1,0 +1,9 @@
+{
+  "name": "sideloading",
+  "version": "1.0.0",
+  "description": "Server raffSideload",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
